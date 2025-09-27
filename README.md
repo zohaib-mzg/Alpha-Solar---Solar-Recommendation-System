@@ -27,11 +27,17 @@ solar -h            # Help menu
 
 ## Project Structure
 Includes/
+
 ├── ConsumerSection/    # Core logic
+
 ├── CustomFunctions/    # Utilities
+
 ├── Extras/            # UI components
+
 └── Parsing/           # Data processing
+
 Database/              # Storage
+
 main.cpp              # Entry point
 
 ## Technologies
