@@ -18,8 +18,11 @@ g++ -std=c++17 main.cpp -o solar-system
 
 ## Usage
 solar -C --add      # Add new consumer
+
 solar -C --search   # Search consumer
+
 solar -C --display  # View all consumers
+
 solar -h            # Help menu
 
 ## Project Structure
@@ -38,7 +41,3 @@ main.cpp              # Entry point
 - Input validation systems
 
 Developed by MUHAMMAD ZOHAIB and Group. 
-
-**This is the perfect length** - comprehensive but not overwhelming. Copy and paste this exact version into your README.md file on GitHub.
-
-Would you like me to modify anything in this version before you use it?
