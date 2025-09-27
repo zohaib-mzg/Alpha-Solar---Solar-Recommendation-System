@@ -1,0 +1,4 @@
+ConsumerNo,Name,PhoneNo,Region,Address,Load,backupDays,SunlightHours,energyRequired,no_of_Batteries,no_of_Panels,roofArea,totalCost,status
+002,ahd,29382938928392,Equatorial Regions,urhguhru,29,3,7,109,43,29,200,8521850,Installed
+001,ehal,123456789,Equatorial Regions,Sahiwal,5,2,7,13,7,4,100,1116200,Installed
+123,Fahd Ali,657438292,Tropical Regions,House no. 32,7,2,7,18,5,5,100,1329225,Installed
